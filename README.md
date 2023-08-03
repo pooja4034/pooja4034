@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pooja4034
-- 👀 I’m interested in Java.
-- 🌱 I’m currently learning Java
+- I have done my BCA and I am currently pursuing MCA
 
 
 <!---
