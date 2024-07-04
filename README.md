@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pooja4034
-- I have done my BCA and I am currently pursuing MCA
-
+- I have done my BCA and Recently I have done my MCA
 
 <!---
 pooja4034/pooja4034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
